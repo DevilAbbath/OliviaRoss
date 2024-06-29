@@ -1,0 +1,39 @@
+header {
+  background-image: url("../img/bg-hero.jpg");
+  height: 34rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+footer {
+  background-color: #0F0F0F;
+  color: white;
+  padding: 2rem 0rem;
+  margin: 0;
+}
+
+nav {
+  background-color: #373A3C;
+  color: white;
+}
+
+i {
+  font-size: 4rem;
+}
+
+#aboutme {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#works {
+  background-color: #17A2B8;
+  padding: 4rem 2rem;
+}
+
+.card-img-top {
+  height: 15rem;
+  object-fit: cover;
+
+}
